@@ -12,10 +12,9 @@
   <b>I'm a passionate programmer who loves to code</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
 <br>
-<br>
-  <br>
+
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a student of [Technical University of Munich](https://www.tum.de/en/).
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
@@ -81,7 +80,7 @@
  
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2024%20mins-blue)
+
 
 **I'm a Night 🦉**
 
