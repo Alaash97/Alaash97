@@ -14,7 +14,8 @@
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
-
+<br>
+  <br>
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a student of [Technical University of Munich](https://www.tum.de/en/).
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
@@ -37,7 +38,7 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
   </a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-    <code><img src="https://www.freeiconspng.com/img/28402" alt="C#" height="40"/></code>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" alt="C#" height="40"/></code>
   </a>
       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40"/></code>
@@ -66,12 +67,8 @@
   <a href="https://docker.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
   </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg" alt="Nginx" height="40"/></code>
-  </a>
-  <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg" alt="PM2" height="40"/></code>
-  </a>
+
+
 </p>
 
 <br>
